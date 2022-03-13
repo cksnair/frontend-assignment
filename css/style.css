@@ -172,7 +172,7 @@ footer a{color:#fff}
 .navbar-light .navbar-brand:hover{color:#fff}
 .sign-up{background:#fff;color:#444C58;border:0;border-radius:18px}
 .sign-up:hover{border:0;background:#6174b9}
-.masthead h1{padding-top:0;text-align:left;font-size:3.625em;font-weight:700;text-shadow:none;line-height:.875em}
+.masthead h1{padding-top:0;text-align:left;font-size:3.625em;font-weight:700;text-shadow:none;line-height:1em}
 .masthead h1 br{display:block}
 .search-box{padding:1.5em}
 .has-search .form-control,.has-search .form-control-feedback{font-size:1.3em}
