@@ -106,7 +106,7 @@ footer a{color:#fff}
 .chat_box .body{flex-grow:1;background-color:#fff;height:169px;overflow-x:hidden;overflow-y:visible;padding-right:.875em;height:160px;visibility:hidden;}
 .chat_box .body .bubble{display:inline-block;padding:10px;margin-bottom:5px;border-radius:4px;position:relative}
 .chat_box .body .typing .bubble{background:#e0e3f0;width:23%;text-align:center}
-.chat_box .body .incoming .bubble::after{border-width:0 0 19px 19px;border-color:transparent transparent #4C5AA1;border-style:solid;display:inline-block;content:'';position:absolute;right:-9px;transform:rotate(133deg);bottom:-7px}
+.chat_box .body .incoming .bubble::after{border-width:0 0 19px 19px;border-color:transparent transparent #4C5AA1;border-style:solid;display:inline-block;content:'';position:absolute;right:-10px;transform:rotate(133deg);bottom:-7px}
 .chat_box .body .outgoing .bubble::after{border-width:0 0 19px 19px;border-color:transparent transparent #e0e3f0;border-style:solid;display:inline-block;content:'';position:absolute;left:-10px;transform:rotate(-42deg);bottom:-7px}
 .chat_box .body .typing .bubble::after{border-width:0 0 19px 19px;border-color:transparent transparent #e0e3f0;border-style:solid;display:inline-block;content:'';position:absolute;left:-10px;transform:rotate(-42deg);bottom:-7px}
 .chat_box .body .bubble p{color:#f9fbff;font-size:14px;text-align:left;line-height:1.4;margin-bottom:0}
