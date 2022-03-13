@@ -99,7 +99,7 @@ footer a{color:#fff}
 .start-chat .goto-chat p{margin-bottom:.5em;font-size:1em;letter-spacing:-1px}
 .chat_box .start-chat .start-btn{background:#13A884;border-radius:21.5px;color:#fff;padding:0 1em;height:40px;line-height:2.5;font-size:.875em;font-weight:600}
 .chat_box textarea{resize:none}
-.masthead .chat_box .container{width:310px;height:auto;position:absolute;top:60%;left:50%;transform:translate(-50%,-50%);border-radius:10px;background-color:#fff;box-shadow:0 5px 13px rgba(0,0,0,0.17397);overflow:hidden; display: none;}
+.masthead .chat_box .container{width:310px;height:auto;position:absolute;top:42%;left:50%;transform:translate(-50%,-50%);border-radius:10px;background-color:#fff;box-shadow:0 5px 13px rgba(0,0,0,0.17397);overflow:hidden; display: none;}
 .chat_box{display:flex;flex-direction:column;height:100%;width:100%;position:absolute;right:10px;max-width:375px}
 .chat_box > *{padding:16px}
 .chat_box .border-tp{border-top:1px solid #cdcdcd;height:1px;width:100%;position:absolute;left:0}
