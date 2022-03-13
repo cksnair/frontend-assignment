@@ -1,6 +1,6 @@
 @import "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap";
 *{margin:0;padding:0;outline:none;text-decoration:none;border:none;list-style:none}
-.cf:after,.cf:before{content:'';display:block}
+.cf:after,.cf:before{content:'';display:block} 
 .cf:after{clear:both}
 .cf{zoom:1;clear:both}
 img,img:focus{border:none;outline:0}
