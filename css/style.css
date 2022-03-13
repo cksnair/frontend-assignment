@@ -184,6 +184,7 @@ footer a{color:#fff}
 .chat_box .start-chat .start-btn{font-size:1em}
 .start-chat .goto-chat p{font-size:1.1em}
 .start-chat .head h2{font-size:1.4em}
+ .btn-play{font-size: 1.2em;}
 }
 @media only screen and (min-width: 1300px) {
 .masthead h1{font-size:5.625em;line-height:1em;padding-left:.875em}
